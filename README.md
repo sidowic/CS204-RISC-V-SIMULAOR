@@ -3,4 +3,4 @@ Project for my 6th semester. An attempt at making a high level  risc v simulator
 
 
 
-uploading code soon
+Includes all the pipelines.
